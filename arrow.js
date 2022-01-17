@@ -34,7 +34,7 @@ console.log(arr);
 // });
 
 // 5
-const str = prompt('', '');
-const products = str.split(",");
-products.sort();
-console.log(products.join("; "));
+// const str = prompt('', '');
+// const products = str.split(",");
+// products.sort();
+// console.log(products.join("; "));
